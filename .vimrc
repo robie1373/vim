@@ -7,4 +7,9 @@ set shiftwidth=2
 set cursorline
 set showmatch
 let python_highlight_all = 1
+let mapleader="\<Space>"
+
 vnoremap. :norm.<CR>
+inoremap jk <ESC>
+
+execute pathogen#infect()
