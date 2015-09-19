@@ -13,3 +13,14 @@ vnoremap. :norm.<CR>
 inoremap jk <ESC>
 
 execute pathogen#infect()
+
+set background=dark
+try
+  colorscheme solarized
+catch
+endtry
+
+if (exists('+colorcolumn'))
+  set colorcolumn=80
+  highlight ColorColumn ctermbg=9
+endif
