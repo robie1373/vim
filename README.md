@@ -9,5 +9,6 @@ This setup uses pathogen to manage plugins.
 # ToDo
 
 * set up / install:
+  * make list of plugins to install
   * https://github.com/Shougo/unite.vim
   * rhttps://github.com/king/ag.vim

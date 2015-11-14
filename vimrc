@@ -6,6 +6,8 @@ set expandtab
 set shiftwidth=2
 set cursorline
 set showmatch
+set incsearch
+
 let test#ruby#minitest#options = '--verbose --pride'
 let python_highlight_all = 1
 let mapleader="\<Space>"
