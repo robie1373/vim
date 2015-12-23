@@ -12,3 +12,4 @@ This setup uses pathogen to manage plugins.
   * make list of plugins to install
   * https://github.com/Shougo/unite.vim
   * rhttps://github.com/king/ag.vim
+  * https://github.com/elixir-lang/vim-elixir.git
