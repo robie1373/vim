@@ -7,6 +7,7 @@ set shiftwidth=2
 set cursorline
 set showmatch
 set incsearch
+set hls
 
 let test#ruby#minitest#options = '--verbose --pride'
 let python_highlight_all = 1
