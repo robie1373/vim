@@ -1,6 +1,5 @@
 https://github.com/janko-m/vim-test.git
-
-
 https://github.com/Robot-Will/Stino.git
 https://github.com/elixir-lang/vim-elixir.git
 https://github.com/Raimondi/delimitMate.git
+https://github.com/altercation/vim-colors-solarized.git
